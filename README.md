@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on UI Projects
 - 🌱 I’m currently learning Rust and Golang
-- 👯 I’m looking to collaborate on React/TypeScript/Nodejs Projects
+- 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for help with building Rust CLIs
 - 💬 Ask me about System's Design
 - 📫 How to reach me: Check out my profile, my contact links are there.
