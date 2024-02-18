@@ -7,7 +7,7 @@
 
 -->
 
-- 🔭 I’m currently working on UI Projects
+- 🔭 I’m currently working on creating Educational Projects
 - 🌱 I’m currently learning Rust and Golang
 - 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for help with building Rust CLIs
