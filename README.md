@@ -8,9 +8,9 @@
 -->
 
 - 🔭 I’m currently working on creating Educational Projects
-- 🌱 I’m currently learning Rust and Golang
+- 🌱 I use TypeScript, Python, Rust, and Golang
 - 👯 I’m looking to collaborate on Interesting Projects
-- 🤔 I’m looking for help with building Rust CLIs
+- 🤔 I’m looking for likeminded Engineer
 - 💬 Ask me about System's Design
 - 📫 How to reach me: Check out my profile, my contact links are there.
 - 😄 Pronouns: Him/He
