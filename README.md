@@ -11,7 +11,7 @@
 - 🌱 I use TypeScript, Python, Rust, and Golang
 - 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for likeminded Engineers
-- 💬 Ask me about System's Design
+- 💬 Technical Articles: https://medium.com/@williampepple
 - 📫 How to reach me: Check out my profile and contact links.
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I play musical instruments
