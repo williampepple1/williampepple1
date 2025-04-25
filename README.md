@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on creating Educational Projects
 - 🌱 I use TypeScript, Python, Rust, and Golang
 - 👯 I’m looking to collaborate on Interesting Projects
-- 🤔 I’m looking for likeminded Engineer
+- 🤔 I’m looking for likeminded Engineers
 - 💬 Ask me about System's Design
-- 📫 How to reach me: Check out my profile, my contact links are there.
+- 📫 How to reach me: Check out my profile and contact links.
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I play musical instruments
 
