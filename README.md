@@ -7,7 +7,7 @@
 
 -->
 
-- 🔭 I’m currently working on creating Educational Projects
+- 🔭 I’m currently building a Utility CSS framework with Rust🦀 called Rusc: https://github.com/williampepple1/rusc
 - 🌱 I use TypeScript, Python, Rust, and Golang
 - 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for likeminded Engineers
