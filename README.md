@@ -8,9 +8,10 @@
 -->
 
 - 🔭 I’m currently building a Utility CSS framework with Rust🦀 called Rusc: https://github.com/williampepple1/rusc
-- 🌱 I use TypeScript, C#, Python, Rust, and Golang
+- 🔭 I’m also building a Browser Audio Transcriber: https://github.com/williampepple1/browser-audio-transcriber
+- 🌱 I use TypeScript, JavaScript, Python, Rust, C#, and Golang
 - 👯 I’m looking to collaborate on Interesting Projects
-- 🤔 I’m looking for likeminded Engineers
+- 🤔 I’m looking for like-minded Engineers
 - 💬 Technical Articles: https://medium.com/@williampepple
 - 📫 How to reach me: Check out my profile and contact links.
 - 😄 Pronouns: Him/He
